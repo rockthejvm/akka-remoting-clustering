@@ -34,7 +34,6 @@ The tags are as follows:
 * `2.2-remote-actors-exercise-boilerplate`
 * `2.3-deploying-actors-remotely`
 * `2.4-remote-deployment-exercise`
-* `3.1-clustering-basics`
 * `3.2-clustering-in-action`
 * `3.3-clustering-example`
 * `3.4-clustering-example-part-2`
@@ -42,7 +41,6 @@ The tags are as follows:
 * `3.6-cluster-aware-routers`
 * `4.1-cluster-singleton`
 * `4.2-cluster-singleton-exercise`
-* `4.3-cluster-sharding`
 * `4.4-cluster-sharding-example`
 * `4.5-cluster-sharding-example-part-2`
 
