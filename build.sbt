@@ -1,4 +1,4 @@
-name := "udemy-akka-remoting-clustering"
+name := "akka-remoting-clustering"
 
 version := "0.1"
 

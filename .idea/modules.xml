@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy-akka-remoting-clustering.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy-akka-remoting-clustering.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy-akka-remoting-clustering-build.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy-akka-remoting-clustering-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka-remoting-clustering.iml" filepath="$PROJECT_DIR$/.idea/modules/akka-remoting-clustering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka-remoting-clustering-build.iml" filepath="$PROJECT_DIR$/.idea/modules/akka-remoting-clustering-build.iml" />
     </modules>
   </component>
 </project>
