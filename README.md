@@ -1,6 +1,6 @@
 # The official repository for the Rock the JVM Akka Remoting and Clustering with Scala course
 
-**(for the Udemy edition, click [here](https://github.com/rockthejvm/udemy-akka-remoting-clustering)**
+**(for the Udemy edition, click [here](https://github.com/rockthejvm/udemy-akka-remoting-clustering))**
 
 Powered by [Rock the JVM!](rockthejvm.com)
 
